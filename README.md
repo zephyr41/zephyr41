@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zephyr41" alt="zephyr41" /></a> </p>
 
-- 🔭 I’m currently working to [Tic tac toe online](https://github.com/dadidodz/YNOV-FusionPython/blob/main/README.md)
+- 🔭 I’m currently working to [Carry IT]([(https://github.com/zephyr41/Carry-It))
 
 - 🌱 I’m currently learning **Osint, Red teamming, Programmation**
 
